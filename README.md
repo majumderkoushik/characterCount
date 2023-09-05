@@ -1,3 +1,5 @@
+Hosted Link: https://majumderkoushik.github.io/characterCount/
+
 # Real-Time Character Count App
 
 This is a simple real-time character count app built with HTML, CSS, and JavaScript.
